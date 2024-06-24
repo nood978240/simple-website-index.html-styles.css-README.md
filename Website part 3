@@ -1,0 +1,26 @@
+
+- `index.html`: Main HTML file.
+- `styles.css`: CSS file for styling.
+- `README.md`: Project documentation.
+
+## Usage
+
+1. Clone the repository or download the project files.
+
+    ```bash
+    git clone https://github.com/yourusername/simple-website.git
+    ```
+
+2. Open `index.html` in a web browser to view the website.
+
+## Deployment
+
+This project can be deployed using GitHub Pages.
+
+1. Push the project to a GitHub repository.
+2. Go to the repository's settings.
+3. Enable GitHub Pages from the `main` branch or `docs` folder.
+
+## License
+
+This project is licensed under the MIT License.
